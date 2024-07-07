@@ -14,3 +14,12 @@
 <div align= center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=argonarch&theme=highcontrast&hide_border=true" alt="argonarch's GitHub Stats" />
 </div>
+<details>
+  <summary><i>Contacts</i></summary>
+
+_Discord_ > [Argonarch](https://discordapp.com/users/562794660649500675) <br/>
+_Matrix_ > @argonarch.:matrix.org<br/>
+_Mail_ > argonarchy@gmail.com <br/>
+_Site_ > http://argonarch.me/portfolio/ <br/><br/>
+
+</details>
